@@ -1,1 +1,0 @@
-# medical_distribution_system
